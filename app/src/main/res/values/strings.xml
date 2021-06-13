@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="date_of_birth">Date of Birth(dd-mm-yyyy)</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="error_first_name">First name can\'t be empty</string>
+    <string name="error_last_name">Last name can\'t be empty</string>
+    <string name="invalid_date_of_birth">Invalid date</string>
+    <string name="back">Back</string>
+
+    <string name="out_first_name">First name: %1$s </string>
+    <string name="out_last_name">Last name: %1$s </string>
+    <string name="out_age">Age: %1$d, Month: %2$d, Days: %3$d</string>
+</resources>
